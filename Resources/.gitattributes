@@ -1,8 +1,0 @@
-sales_Modified.csv filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
-cities_Modify.csv filter=lfs diff=lfs merge=lfs -text
-countries_Modified.csv filter=lfs diff=lfs merge=lfs -text
-customers_modified.csv filter=lfs diff=lfs merge=lfs -text
-employees_Modified.csv filter=lfs diff=lfs merge=lfs -text
-products_Modified.csv filter=lfs diff=lfs merge=lfs -text
-Categories_Modified.csv filter=lfs diff=lfs merge=lfs -text
