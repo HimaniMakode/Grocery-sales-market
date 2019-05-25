@@ -4,3 +4,4 @@ Resources_final/customers_modified.csv filter=lfs diff=lfs merge=lfs -text
 Resources_final/employees_Modified.csv filter=lfs diff=lfs merge=lfs -text
 Resources_final/products_Modified.csv filter=lfs diff=lfs merge=lfs -text
 Resources_final/Categories_Modified.csv filter=lfs diff=lfs merge=lfs -text
+Resources_final/sales_Modified.csv filter=lfs diff=lfs merge=lfs -text
