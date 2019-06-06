@@ -1,4 +1,4 @@
-#Grocery Sales Market Study & Data Analysis
+# Grocery Sales Market Study & Data Analysis
 
 ## Project Outline:  
 We find the grocery market an interesting study. We hope to derive insights that might help us to find business efficiencies and areas for growth. In order to do so we analyzed a series of datasets we pulled from Kaggle.
